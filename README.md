@@ -2,6 +2,6 @@
 
 olá, bem vindo
 
-- strogonoff de frango
-- carne
-- gfgj
+- Strogonoff de Frango
+- Pavê
+- Bolo  de Cenoura
